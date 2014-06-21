@@ -22,6 +22,12 @@ working on integrating architected Si nanostructures into Li-ion batteries as
 high capacity electrodes.
 
 
-* [Email me](mailto:xgu@caltech.edu)
-* [Google scholar](http://scholar.google.com/citations?user=EZ3_dV8AAAAJ&hl=en)
-* [LinkedIn](https://www.linkedin.com/pub/xun-wendy-gu/62/bb7/4a)
+<span class="octicon octicon-mail">
+  [Email me](mailto:xgu@caltech.edu)
+</span></br>
+<span class="octicon octicon-book">
+  [Google scholar](http://scholar.google.com/citations?user=EZ3_dV8AAAAJ&hl=en)
+</span></br>
+<span class="octicon octicon-organization">
+  [LinkedIn](https://www.linkedin.com/pub/xun-wendy-gu/62/bb7/4a)
+</span></br>
