@@ -10,15 +10,15 @@ title:            Xun Wendy Gu
 
 author:
   name:           'Xun Wendy Gu'
-  url:            http://www.its.caltech.edu/~xgu/
+  url:            http://www.its.caltech.edu/~xgu
 
 # Number of posts to show per page, disabled because there is no blog
 # paginate:         5
 
 # Custom vars
 version:          2.0.0
-theme:            theme-base-0b
-baseurl:          http://www.its.caltech.edu/~xgu/
+theme:            theme-base-0c
+baseurl:          http://www.its.caltech.edu/~xgu
 
 github:
   repo:           https://github.com/poole/hyde
