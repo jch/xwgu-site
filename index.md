@@ -5,7 +5,7 @@ title: About
 
 # About
 
-I am a graduate student in the Greer research group at the California Institute
+I am a graduate student in the [Greer research group](http://www.jrgreer.caltech.edu/home.php) at the California Institute
 of Technology. I expect to receive my PhD in Chemical Engineering, with a minor
 in Materials Science, by the end of 2014.
 
