@@ -15,7 +15,8 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+# Number of posts to show per page, disabled because there is no blog
+# paginate:         5
 
 # Custom vars
 version:          2.0.0
