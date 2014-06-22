@@ -15,6 +15,14 @@ jekyll build
 rsync -avz _site/ xgu@its.caltech.edu:public_html
 ```
 
+To preview what your pages look like locally,
+
+```sh
+jekyll serve --watch
+```
+
+Then visit http://0.0.0.0:4000/~xgu
+
 ## Hyde
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
