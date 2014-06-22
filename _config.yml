@@ -17,7 +17,7 @@ author:
 
 # Custom vars
 version:          2.0.0
-theme:            theme-base-0c
+theme:            theme-base-08
 baseurl:          http://www.its.caltech.edu/~xgu
 
 github:
