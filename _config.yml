@@ -17,7 +17,7 @@ author:
 
 # Custom vars
 version:          2.0.0
-theme:            theme-base-08
+# theme:            theme-base-08
 baseurl:          /
 
 github:
