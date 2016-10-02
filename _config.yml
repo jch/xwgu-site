@@ -18,7 +18,7 @@ author:
 # Custom vars
 version:          2.0.0
 # theme:            theme-base-08
-baseurl:          /
+baseurl:          http://xwgu.github.io/
 
 github:
   repo:           https://github.com/poole/hyde
