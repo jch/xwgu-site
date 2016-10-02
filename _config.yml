@@ -6,19 +6,19 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Xun Wendy Gu
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Xun Wendy Gu'
+  url:            http://xwgu.github.io
 
-paginate:         5
+# Number of posts to show per page, disabled because there is no blog
+# paginate:         5
 
 # Custom vars
 version:          2.0.0
+theme:            theme-base-08
+baseurl:          /
 
 github:
   repo:           https://github.com/poole/hyde
