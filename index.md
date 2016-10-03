@@ -45,6 +45,6 @@ high capacity electrodes.
 <span class="octicon octicon-organization">
   [ResearchGate](https://www.researchgate.net/profile/Wendy_Gu2)
 </span></br>
-<span class="octicon octicon-star">
+<span class="octicon octicon-check">
 [Download CV](https://www.dropbox.com/s/5wwb1y65kfzebi8/xgu_CV_100216.pdf?dl=0)
 </span></br>
