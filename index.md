@@ -7,17 +7,13 @@ title: About
 
 (Add photo here)
 
-**Acting Assistant Professor (starting in June 2017)**</br>
+**Acting Assistant Professor** (starting in June 2017)</br>
 Mechanical Engineering</br>
 Stanford University </br>
 
 Postdoc, UC Berkeley, 2015-present</br>
 MS/PhD, Caltech, 2010-2014</br>
 BS, UC Berkeley, 2005-2009</br>
-
-**Honors**
-NDSEG Fellowship, 2010-2014
-Fulbright Scholar, 2009-2010
 
 <span class="octicon octicon-mail">
   [Email me](mailto:xgu@stanford.edu)
