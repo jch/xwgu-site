@@ -5,6 +5,8 @@ title: About
 
 # About
 
+I am a postdoctoral scholar in the Chemistry 
+
 I am a graduate student in the [Greer research group](http://www.jrgreer.caltech.edu/home.php) at the California Institute
 of Technology. I expect to receive my PhD in Chemical Engineering, with a minor
 in Materials Science, by the end of 2014.
@@ -23,11 +25,11 @@ high capacity electrodes.
 
 
 <span class="octicon octicon-mail">
-  [Email me](mailto:xgu@caltech.edu)
+  [Email me](mailto:xgu@stanford.edu)
 </span></br>
 <span class="octicon octicon-book">
   [Google scholar](http://scholar.google.com/citations?user=EZ3_dV8AAAAJ&hl=en)
 </span></br>
 <span class="octicon octicon-organization">
-  [LinkedIn](https://www.linkedin.com/pub/xun-wendy-gu/62/bb7/4a)
+  [ResearchGate](https://www.researchgate.net/profile/Wendy_Gu2)
 </span></br>
