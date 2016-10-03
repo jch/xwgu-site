@@ -3,10 +3,7 @@ layout: page
 title: Art of Science
 ---
 
-Scanning electron microscope images of nanoscale objects often capture what
-appear to be alien landscapes or extraterrestrial creatures. These images that
-I’ve taken show nanostructures that look oddly familiar but may be
-behaving extraordinarily.
+Scanning and transmission electron microscopy provide us with a glimpse of the world at the nanoscale. At this length scale, different physics dominates (for example, interparticle forces may be much stronger than gravity) which allows the creation of unique, and beautiful structures.
 
 ## Architected Nanocrystal Superlattices
 
