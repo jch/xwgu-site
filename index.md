@@ -7,9 +7,9 @@ title: About
 
 (how to add photo here??)
 
-Acting Assistant Professor (starting June 2017)
-Mechanical Engineering
-Stanford University 
+Acting Assistant Professor (starting June 2017)</br>
+Mechanical Engineering</br>
+Stanford University </br>
 
 Previous positions:
 Postdoc with [Paul Alivisatos](http://www.cchem.berkeley.edu/pagrp/) at UC Berkeley, 2015-present
