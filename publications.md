@@ -3,11 +3,19 @@ layout: page
 title: Publications
 ---
 
-* **X. W. Gu**, J. R. Greer. “Solid Mesostructured 3D Lattices with Strength Higher than Bulk” In Preparation (2014)
+* **X.W. Gu**, X. Ye, D. M. Koshy, S. Vachhani, P. Hosemann, A.P. Alivisatos, “Tolerance to Structural Disorder and Tunable Mechanical Behavior in Polymer-Nanocrystal Superlattices,” In preparation
 
-* D. Z. Chen, **X. W. Gu**, Q. An, W. A. Goddard, J. R. Greer, “Ductility and work hardening in nano-sized metallic glasses,” Submitted (2014)
+* X. Xia, C. Di Leo, **X.W. Gu**, J.R. Greer. [“in-situ Lithiation-Delithiation of Mechanically Robust Cu-Si Core-Shell Nanolattices in a Scanning Electron Microscope,”](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.6b00256) ACS Energy Letters, 1 (3), 492-499 (2016)
 
-* **X. W. Gu**, M. J. Zadeh, D. Z. Chen, Z. X. Wu, Y. W. Zhang, D. J. Srolovitz, J. R. Greer. “Flaw Insensitivity at the Nanoscale: Myth or Reality?” Submitted (2014)
+*	B.M. Gallant, **X.W. Gu**, D.Z. Chen, J.R. Greer, N.S. Lewis. [“Tailoring of Interfacial Mechanical Shear Strength by Surface Chemical Modification of Silicon Microwires Embedded in Nafion Membranes,”](http://pubs.acs.org/doi/abs/10.1021/acsnano.5b00468) ACS Nano, 9, 5143-5153 (2015)
+
+* D. Z. Chen, **X. W. Gu**, Q. An, W. A. Goddard, J. R. Greer, [“Ductility and work hardening in nano-sized metallic glasses,”](http://scitation.aip.org/content/aip/journal/apl/106/6/10.1063/1.4907773) Applied Physics Letters, 106, 061903 (2015)
+
+* **X. W. Gu**, J. R. Greer. [“Ultra-strong Architected Cu Meso-lattices,”](http://www.sciencedirect.com/science/article/pii/S2352431615000279) Extreme Mechanics Letters, 2, 7-14 (2015)
+
+* **X. W. Gu**, M. J. Zadeh, D. Z. Chen, Z. X. Wu, Y. W. Zhang, D. J. Srolovitz, J. R. Greer. [“Mechanisms of Failure in Nanoscale Metallic Glass,”](http://pubs.acs.org/doi/abs/10.1021/nl5027869) Nano Letters, 14, 5858-5864 (2014)
+
+* R. Liontas, **X.W. Gu**, E. Fu, Y. Wang, N. Li, N. Mara, J.R. Greer, [“Effects of Helium Implantation on the Tensile Properties and Microstructure of Ni73P27 Metallic Glass Nanostructures,”](http://pubs.acs.org/doi/abs/10.1021/nl502074d) Nano Letters, 14, 5176-5183 (2014)
 
 * **X. W. Gu**, Z. X. Wu, Y. W. Zhang, D. J. Srolovitz, J. R. Greer. [“Microstructure vs. Flaw: Mechanisms of Failure and Strength in Nanostructures,”](http://pubs.acs.org/doi/abs/10.1021/nl403453h) Nano Letters, 13, 5703-5709 (2013).
 
