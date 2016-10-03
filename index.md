@@ -3,13 +3,25 @@ layout: default
 title: About
 ---
 
-# About
+# About Wendy
 
-I am a postdoctoral scholar in the Chemistry 
+(how to add photo here??)
+
+Acting Assistant Professor (starting June 2017)
+Mechanical Engineering
+Stanford University 
+
+Previous positions:
+Postdoc with [Paul Alivisatos](http://www.cchem.berkeley.edu/pagrp/) at UC Berkeley, 2015-present
+MS/PhD studies in Chemical Engineering, with a minor in Materials Science, at Caltech with [Julia Greer](http://www.jrgreer.caltech.edu/home.php), 2010-2014
+
+
+I am a postdoctoral scholar in the [Alivisatos group](http://www.cchem.berkeley.edu/pagrp/) in the Chemistry Department at UC Berkeley, where I am studying the 
+
+I will be starting as an assistant professor in the Mechanical Engineering department at Stanford University beginning in June 2017. Check out my [future research plans]. (link to research group page)
 
 I am a graduate student in the [Greer research group](http://www.jrgreer.caltech.edu/home.php) at the California Institute
-of Technology. I expect to receive my PhD in Chemical Engineering, with a minor
-in Materials Science, by the end of 2014.
+of Technology. I expect to receive my PhD in Chemical Engineering, with a minor in Materials Science, by the end of 2014.
 
 I fabricate and mechanically test nanostructures in order to study the
 fundamentals of fracture and deformation in materials with nanoscale resolution.
@@ -33,3 +45,4 @@ high capacity electrodes.
 <span class="octicon octicon-organization">
   [ResearchGate](https://www.researchgate.net/profile/Wendy_Gu2)
 </span></br>
+ADD A LINK TO MY CV
