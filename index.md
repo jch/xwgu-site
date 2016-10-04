@@ -11,9 +11,9 @@ Technological breakthroughs using structural nanomaterials require an improved u
 
 The Gu group combines the tools of mechanical testing and design, bottom-up colloidal synthesis, top-down nanofabrication, in-situ electron microscopy, and materials characterization in order to pursue the following research areas:
 
-1) Self-assembly of lightweight and durable nanocomposites
-2) Dynamics of deformation at nanoscale interfaces
-3) Mechanical actuation of optoelectronic nanostructures
+1. Self-assembly of lightweight and durable nanocomposites
+1. Dynamics of deformation at nanoscale interfaces
+1. Mechanical actuation of optoelectronic nanostructures
 
 ![]({{ site.baseurl }}/public/images/Cu_no4_W6_trussG_004_scalebar_v2.jpg)
 
