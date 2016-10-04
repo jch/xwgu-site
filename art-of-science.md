@@ -34,6 +34,8 @@ Copper-Nickel Nanotree - Metallic nanostructure formed from a copper-nickel allo
 
 ![]({{ site.baseurl }}/public/images/copper-nickel-nanotree.jpg)
 
+## Architected Nano-lattices
+
 [Sideshow Bob](https://en.wikipedia.org/wiki/Sideshow_Bob) in the Nanoworld - Copper nano-lattice with wild fractal-like hair. Base of the structure is 25 microns in width. Colorized scanning electron microscope image. Finalist in the Materials Research Society Spring Meeting art contest.
 
 ![]({{ site.baseurl }}/public/images/sideshow-bob-in-the-nanoworld.jpg)
