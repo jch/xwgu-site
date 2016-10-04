@@ -15,6 +15,6 @@ The Gu group combines the tools of mechanical testing and design, bottom-up coll
 2) Dynamics of deformation at nanoscale interfaces
 3) Mechanical actuation of optoelectronic nanostructures
 
-![]({{ site.baseurl }}/public/images/Cu_no4_W6_trussG_004_scalebar_v2.tiff)
+![]({{ site.baseurl }}/public/images/Cu_no4_W6_trussG_004_scalebar_v2.jpg)
 
 Cu octet meso-lattice(link to paper)
