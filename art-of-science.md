@@ -3,7 +3,7 @@ layout: page
 title: Art of Science
 ---
 
-Scanning and transmission electron microscopy provide us with a glimpse of the world at the nanoscale. At this length scale, different physics dominates (for example, interparticle forces may be much stronger than gravity) which allows the creation of unique, and beautiful structures.
+Scanning and transmission electron microscopy of strange and beautiful nanostructures. 
 
 ## Architected Nanocrystal Superlattices
 
