@@ -16,7 +16,7 @@ MS/PhD, Caltech, 2010-2014</br>
 BS, UC Berkeley, 2005-2009</br>
 
 <span class="octicon octicon-mail">
-  [Email me](mailto:xgu@stanford.edu)
+  [Email me](mailto:xwgu@stanford.edu)
 </span></br>
 <span class="octicon octicon-book">
   [Google scholar](http://scholar.google.com/citations?user=EZ3_dV8AAAAJ&hl=en)
