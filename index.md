@@ -3,9 +3,9 @@ layout: default
 title: Research
 ---
 
-## Gu Group, Stanford Mechanical Engineering
+# Research in the Gu Group
 
-# Research
+## Stanford Mechanical Engineering
 
 The soaring global demand for housing, transportation and infrastructure in the face of environmental crises and diminishing natural resources necessitates the development of lightweight, durable and multifunctional structural materials with performance far beyond that achievable today. Nanomaterials will be critical for meeting this challenge because of their unprecedented high strength, toughness and ductility in conjunction with their novel electronic, optical and transport behavior.
 
