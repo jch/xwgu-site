@@ -7,7 +7,7 @@ title: Research
 
 ## Stanford Mechanical Engineering
 
-The soaring global demand for housing, transportation and infrastructure in the face of environmental crises and diminishing natural resources necessitates the development of lightweight, durable and multifunctional structural materials with performance far beyond that achievable today. Nanomaterials will be critical for meeting this challenge because of their unprecedented high strength, toughness and ductility in conjunction with their novel electronic, optical and transport behavior.
+The soaring global demand for housing, transportation and infrastructure in the face of diminishing natural resources necessitates the development of lightweight, durable and multifunctional structural materials with performance far beyond that achievable today. Nanomaterials will be critical for meeting this challenge because of their unprecedented high strength, toughness and ductility in conjunction with their novel electronic, optical and transport behavior.
 
 Technological breakthroughs using structural nanomaterials require an improved understanding of the origin of mechanical size effects and nanoscale phenomena, as well as advances in the manufacture and assembly of nanostructures. The Gu research group studies the **mechanical behavior of architected nanomaterials**, in order to design nanocomposites with extraordinary mechanical performance, and sensors that turn mechanical energy into optical or electronic signals.
 
