@@ -5,20 +5,6 @@ title: Art of Science
 
 Scanning and transmission electron microscopy of strange and beautiful nanostructures. 
 
-## Architected Nanocrystal Superlattices
-
-Self-assembled polystyrene (light color) + Au (dark spheres) superlattices with periodicity of 10 nm
-
-![]({{ site.baseurl }}/public/images/B1_sample72_11pt5k_14.jpg)
-
-Disordered superlattice
-
-![]({{ site.baseurl }}/public/images/C2_sample74_17.jpg)
-
-Wrinkled superlattice
-
-![]({{ site.baseurl }}/public/images/B1_sample72_11pt5k_3.jpg)
-
 ## Nanostructured metallic pillars
 
 Field of metal/metallic glass nanopillars made by electroplating into an e-beam lithographed template
@@ -39,3 +25,18 @@ Copper-Nickel Nanotree - Metallic nanostructure formed from a copper-nickel allo
 [Sideshow Bob](https://en.wikipedia.org/wiki/Sideshow_Bob) in the Nanoworld - Copper nano-lattice with wild fractal-like hair. Base of the structure is 25 microns in width. Colorized scanning electron microscope image. Finalist in the Materials Research Society Spring Meeting art contest.
 
 ![]({{ site.baseurl }}/public/images/sideshow-bob-in-the-nanoworld.jpg)
+
+
+## Architected Nanocrystal Superlattices
+
+Self-assembled polystyrene (light color) + Au (dark spheres) superlattices with periodicity of 10 nm
+
+![]({{ site.baseurl }}/public/images/B1_sample72_11pt5k_14.jpg)
+
+Disordered superlattice
+
+![]({{ site.baseurl }}/public/images/C2_sample74_17.jpg)
+
+Wrinkled superlattice
+
+![]({{ site.baseurl }}/public/images/B1_sample72_11pt5k_3.jpg)
