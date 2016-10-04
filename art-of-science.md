@@ -9,13 +9,21 @@ Scanning and transmission electron microscopy provide us with a glimpse of the w
 
 Self-assembled polystyrene (light color) + Au (dark spheres) superlattices with periodicity of 10 nm
 
+![]({{ site.baseurl }}/public/images/B1_sample72_11pt5k_14.jpg)
+
 Disordered superlattice
 
+![]({{ site.baseurl }}/public/images/C2_sample74_17.jpg)
+
 Wrinkled superlattice
+
+![]({{ site.baseurl }}/public/images/B1_sample72_11pt5k_3.jpg)
 
 ## Nanostructured metallic pillars
 
 Field of metal/metallic glass nanopillars made by electroplating into an e-beam lithographed template
+
+![]({{ site.baseurl }}/public/images/Screen Shot 2016-10-03 at 1.48.59 PM.png)
 
 Nano-mushroom Circus Act - Precariously balanced platinum nano-mushrooms with 100 nm wide stalks. Winner of
 the Caltech Art of Science competition 2013.
