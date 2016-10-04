@@ -5,7 +5,7 @@ title: About Wendy Gu
 
 # About Wendy
 
-![]({{ site.baseurl }}/public/images/xwg_head.jpg)
+<img src="{{ site.baseurl }}/public/images/xwg_head.jpg" style="max-width: 350px" />
 
 **Acting Assistant Professor** (starting in June 2017)</br>
 Mechanical Engineering</br>
